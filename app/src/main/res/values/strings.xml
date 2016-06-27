@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Aasha</string>
+    <string name="warning">Warning !!!</string>
+    <string name="tap_to_cancel_rescue_action">Tap to cancel rescue action!!!</string>
+</resources>
